@@ -2,7 +2,7 @@
   "inventory": [
    {
       "id": 1,
-      "sku": "234";
+      "sku": "234",
       "nombre": "medicamento 1",
       "codigo": null,
       "codigo_inventario": null,
@@ -24,7 +24,7 @@
    },
    {
       "id": 2,
-     "sku": "3252";
+     "sku": "3252",
       "nombre": "medicantento 2",
       "codigo": null,
       "codigo_inventario": null,

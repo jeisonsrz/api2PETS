@@ -1,4 +1,5 @@
-[
+{
+  "inventory": [
    {
       "id": 1,
       "nombre": "medicamento 1",
@@ -42,3 +43,4 @@
       "bodega": 1
    }
 ]
+}

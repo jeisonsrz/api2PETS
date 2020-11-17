@@ -3,6 +3,6 @@
    { "sku": "020", "stock_minimo": 1, "nombre": "medicamento 1", "precio_venta": "56" },
    { "sku": "030", "stock_minimo": 1, "nombre": "medicamento 1", "precio_venta": "56" },
    { "sku": "040", "stock_minimo": 1, "nombre": "medicamento 1", "precio_venta": "56" },
-   { "sku": "050", "stock_minimo": 1, "nombre": "medicamento 1", "precio_venta": "56" },
+   { "sku": "050", "stock_minimo": 1, "nombre": "medicamento 1", "precio_venta": "56" }
   ]
 }
